@@ -1,1 +1,19 @@
-
+[
+  {
+    "description": "Grand Prix 2022",
+    "location": {
+      "name": "Belgium",
+      "image": "TODO"
+    },
+    "runner_1": {
+      "name": "Mercedes",
+      "stars": 5,
+      "image": "TODO"
+    },
+    "runner_2": {
+      "name": "Redbull",
+      "stars": 4,
+      "image": "TODO"
+    }
+  }
+]
