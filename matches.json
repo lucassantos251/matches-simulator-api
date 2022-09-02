@@ -3,17 +3,17 @@
     "description": "Grand Prix 2022",
     "location": {
       "name": "Belgium",
-      "image": "TODO"
+      "image": "https://p2.trrsf.com/image/fget/cf/648/0/images.terra.com/2022/08/28/1669040651-ferrari-charlesleclerc-03.jpg"
     },
     "runner_1": {
       "name": "Mercedes",
       "stars": 5,
-      "image": "TODO"
+      "image": "https://www.formula1.com/content/dam/fom-website/teams/2022/mercedes.png.transform/6col/image.png"
     },
     "runner_2": {
       "name": "Redbull",
       "stars": 4,
-      "image": "TODO"
+      "image": "https://www.formula1.com/content/dam/fom-website/teams/2022/red-bull-racing.png.transform/6col/image.png"
     }
   }
 ]
